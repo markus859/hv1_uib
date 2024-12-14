@@ -1,0 +1,25 @@
+A,Arbeiderpartiet
+SV,Sosialistisk Venstreparti
+RØDT,Rødt
+SP,Senterpartiet
+KRF,Kristelig Folkeparti
+V,Venstre
+H,Høyre
+FRP,Fremskrittspartiet
+DEMN,Norgesdemokratene
+KRISTNE,Konservativt
+KYST,Kystpartiet
+MDG,Miljøpartiet De Grønne
+NKP,Norges Kommunistiske Parti
+PIR,Piratpartiet
+PP,Pensjonistpartiet
+FOLKEM,Folkemakten
+ALLI,Alliansen
+HELSE,Helsepartiet
+LIBS,Liberalistene
+FI,Feministisk Initiativ
+AAN,Alliansen - Alternativ for Norge
+FNB,Folkeaksjonen Nei til mer bompenger
+INP,Industri- og Næringspartiet
+PS,Partiet Sentrum
+GT,Generasjonspartiet
